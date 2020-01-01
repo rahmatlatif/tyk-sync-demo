@@ -1,0 +1,23 @@
+{
+  "_id": "5d2c70a19c23f900018fec72",
+  "id": "5d2c70a19c23f900018fec72",
+  "org_id": "5cd91fa13a85890001b4329d",
+  "rate": 1000,
+  "per": 60,
+  "quota_max": -1,
+  "quota_renewal_rate": 3600,
+  "access_rights": {},
+  "hmac_enabled": false,
+  "active": true,
+  "name": "Pet Store",
+  "is_inactive": false,
+  "date_created": "2019-07-15T12:25:05.502Z",
+  "tags": [],
+  "key_expires_in": 0,
+  "partitions": {
+    "quota": false,
+    "rate_limit": false,
+    "acl": false
+  },
+  "last_updated": "1563193505"
+}
